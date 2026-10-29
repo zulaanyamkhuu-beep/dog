@@ -1,8 +1,8 @@
-import { Header } from "./ header footer/header";
+import { Header } from "./header/header";
 import { Section1 } from "./section/section1";
 import { Section2 } from "./section/section2";
 import { Section3 } from "./section/section3";
-import { Footer } from "./ header footer/footer";
+import { Footer } from "./header/footer";
 
 export default function Home() {
   return (
